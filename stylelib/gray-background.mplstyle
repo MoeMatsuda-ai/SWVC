@@ -1,0 +1,37 @@
+# Set gray background default line colors to white.
+
+lines.color: coral
+lines.linewidth: 0.8
+patch.edgecolor: white
+
+text.color: white
+
+axes.facecolor: 424242
+axes.edgecolor: white
+axes.linewidth: 0.8
+axes.grid: True
+axes.titlelocation: left
+axes.titlesize: 20
+axes.labelsize: 12
+axes.labelcolor: white
+axes.prop_cycle: cycler('color', ['coral', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+axes.spines.right: False
+axes.spines.top: False
+
+xtick.color: white
+ytick.color: white
+
+grid.color: 848484
+
+figure.facecolor: 424242
+figure.edgecolor: 424242
+
+savefig.facecolor: 424242
+savefig.edgecolor: 424242
+
+### Boxplots
+boxplot.boxprops.color: white
+boxplot.capprops.color: white
+boxplot.flierprops.color: white
+boxplot.flierprops.markeredgecolor: white
+boxplot.whiskerprops.color: white
