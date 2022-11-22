@@ -25,7 +25,7 @@ SWVC/
 $ python gui_chanfl.py 
 
 ```
-逆再生をする場合は`gui_inv.py`, 音波のグラフをリアルタイムで出力する
+逆再生や再生速度の変更をする場合は`gui_inv.py`, 音波のグラフをリアルタイムで出力する
 場合は`gui_inv.py`を実行してください。
 
 `stylelib`ディレクトリにはmatplotlib用のmplstyleファイル`gray-background.mplstyle`をおいています。
